@@ -49,3 +49,7 @@ gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'tzinfo-data'
 
 gem 'kaminari'
+gem 'domp'
+
+gem "omniauth"
+gem "omniauth-facebook"
